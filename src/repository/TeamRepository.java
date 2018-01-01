@@ -60,7 +60,9 @@ public class TeamRepository {
                             playerObj.getString("displayName"), 
                             PlayerPosition.getPlayerPositionWithShortName(playerObj.getString("position")), 
                             playerObj.getInt("overall"), 
-                            playerObj.getInt("shirtNumber")));
+                            playerObj.getInt("shirtNumber"),
+                            playerObj.getString("nationality"),
+                            playerObj.getInt("age")));
                 }
                 teams.add(new Team(teamObj.getInt("id"), teamObj.getString("name"), teamObj.getInt("stadiumId"), teamObj.getInt("formationId"), players));
             }

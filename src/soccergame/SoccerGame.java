@@ -56,7 +56,7 @@ public class SoccerGame {
     }
     
     public static void printPlayer(Player player){
-        System.out.printf("Player: %s - Overall: %d - Shirt: %d - %s %s\n", player.getDisplayName(), player.getOverall(), player.getShirtNumber(), player.getFirstName(), player.getLastName());
+        System.out.printf("Player: %s - Overall: %d - Age: %d - %s - Shirt: %d - %s %s\n", player.getDisplayName(), player.getOverall(), player.getAge(), player.getNationality(), player.getShirtNumber(), player.getFirstName(), player.getLastName());
     }
     
     public static void printFormation(Formation formation){
