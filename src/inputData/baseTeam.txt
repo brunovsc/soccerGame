@@ -1,0 +1,185 @@
+
+		{
+			"id": ,
+			"name": "",
+			"stadiumId": ,
+			"formationId": ,
+			"players": [
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 1
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 2
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 3
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 4
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 5
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 6
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 7
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 8
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 9
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 10
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 11
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 12
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 13
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 14
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 15
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 16
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 17
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 18
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 19
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 20
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 21
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": ,
+					"shirtNumber": 22
+				},
+			]
+		},

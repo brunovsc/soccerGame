@@ -12,7 +12,19 @@
 					"displayName": "M. ter Stegen",
 					"position": "GK",
 					"overall": 83,
-					"shirtNumber": 1
+					"shirtNumber": 1,
+					"nationality": "Germany",
+					"age": 26
+				},
+				{
+					"firstName": "Nelson",
+					"lastName": "Semedo",
+					"displayName": "N. Semedo",
+					"position": "RB",
+					"overall": 81,
+					"shirtNumber": 2,
+					"nationality": "Portugal",
+					"age": 25
 				},
 				{
 					"firstName": "Gerard",
@@ -20,7 +32,9 @@
 					"displayName": "G. Pique",
 					"position": "CB",
 					"overall": 86,
-					"shirtNumber": 3
+					"shirtNumber": 3,
+					"nationality": "Spain",
+					"age": 31
 				},
 				{
 					"firstName": "Ivan",
@@ -28,7 +42,9 @@
 					"displayName": "I. Rakitic",
 					"position": "CM",
 					"overall": 87,
-					"shirtNumber": 4
+					"shirtNumber": 4,
+					"nationality": "Croatia",
+					"age": 30
 				},
 				{
 					"firstName": "Sergio",
@@ -36,7 +52,9 @@
 					"displayName": "S. Busquets",
 					"position": "DM",
 					"overall": 87,
-					"shirtNumber": 5
+					"shirtNumber": 5,
+					"nationality": "Spain",
+					"age": 30
 				},
 				{
 					"firstName": "Denis",
@@ -44,7 +62,9 @@
 					"displayName": "D. Suarez",
 					"position": "CM",
 					"overall": 80,
-					"shirtNumber": 6
+					"shirtNumber": 6,
+					"nationality": "Spain",
+					"age": 24
 				},
 				{
 					"firstName": "Arda",
@@ -52,7 +72,9 @@
 					"displayName": "A. Turan",
 					"position": "CM",
 					"overall": 84,
-					"shirtNumber": 7
+					"shirtNumber": 7,
+					"nationality": "Turkey",
+					"age": 31
 				},
 				{
 					"firstName": "Andres",
@@ -60,7 +82,9 @@
 					"displayName": "A. Iniesta",
 					"position": "CM",
 					"overall": 88,
-					"shirtNumber": 8
+					"shirtNumber": 8,
+					"nationality": "Spain",
+					"age": 34
 				},
 				{
 					"firstName": "Luis",
@@ -68,7 +92,9 @@
 					"displayName": "L. Suarez",
 					"position": "ST",
 					"overall": 92,
-					"shirtNumber": 9
+					"shirtNumber": 9,
+					"nationality": "Uruguay",
+					"age": 31
 				},
 				{
 					"firstName": "Lionel",
@@ -76,15 +102,19 @@
 					"displayName": "L. Messi",
 					"position": "RW",
 					"overall": 94,
-					"shirtNumber": 10
+					"shirtNumber": 10,
+					"nationality": "Argentina",
+					"age": 31
 				},
 				{
-					"firstName": "Neymar",
-					"lastName": "Junior",
-					"displayName": "Neymar",
+					"firstName": "Ousmane",
+					"lastName": "Dembele",
+					"displayName": "O. Dembele",
 					"position": "LW",
-					"overall": 92,
-					"shirtNumber": 11
+					"overall": 83,
+					"shirtNumber": 11,
+					"nationality": "France",
+					"age": 21
 				},
 				{
 					"firstName": "Rafael",
@@ -92,7 +122,9 @@
 					"displayName": "Rafinha",
 					"position": "CM",
 					"overall": 82,
-					"shirtNumber": 12
+					"shirtNumber": 12,
+					"nationality": "Brazil",
+					"age": 25
 				},
 				{
 					"firstName": "Jaspen",
@@ -100,7 +132,9 @@
 					"displayName": "J. Cillessen",
 					"position": "GK",
 					"overall": 81,
-					"shirtNumber": 13
+					"shirtNumber": 13,
+					"nationality": "Netherlands",
+					"age": 29
 				},
 				{
 					"firstName": "Javier",
@@ -108,7 +142,29 @@
 					"displayName": "J. Mascherano",
 					"position": "CB",
 					"overall": 85,
-					"shirtNumber": 14
+					"shirtNumber": 14,
+					"nationality": "Argentina",
+					"age": 34
+				},
+				{
+					"firstName": "Paulinho",
+					"lastName": "",
+					"displayName": "Paulinho",
+					"position": "CM",
+					"overall": 83,
+					"shirtNumber": 15,
+					"nationality": "Brazil",
+					"age": 30
+				},
+				{
+					"firstName": "Gerard",
+					"lastName": "Deulofeu",
+					"displayName": "G. Deulofeu",
+					"position": "LW",
+					"overall": 78,
+					"shirtNumber": 16,
+					"nationality": "Spain",
+					"age": 24
 				},
 				{
 					"firstName": "Paco",
@@ -116,7 +172,9 @@
 					"displayName": "P. Alcacer",
 					"position": "ST",
 					"overall": 81,
-					"shirtNumber": 17
+					"shirtNumber": 17,
+					"nationality": "Spain",
+					"age": 25
 				},
 				{
 					"firstName": "Jordi",
@@ -124,7 +182,9 @@
 					"displayName": "J. Alba",
 					"position": "LB",
 					"overall": 86,
-					"shirtNumber": 18
+					"shirtNumber": 18,
+					"nationality": "Spain",
+					"age": 29
 				},
 				{
 					"firstName": "Lucas",
@@ -132,7 +192,9 @@
 					"displayName": "L. Digne",
 					"position": "LB",
 					"overall": 79,
-					"shirtNumber": 19
+					"shirtNumber": 19,
+					"nationality": "France",
+					"age": 25
 				},
 				{
 					"firstName": "Sergi",
@@ -140,15 +202,19 @@
 					"displayName": "S. Roberto",
 					"position": "RB",
 					"overall": 81,
-					"shirtNumber": 20
+					"shirtNumber": 20,
+					"nationality": "Spain",
+					"age": 26
 				},
 				{
 					"firstName": "Andre",
 					"lastName": "Gomes",
 					"displayName": "A. Gomes",
 					"position": "CM",
-					"overall": 84,
-					"shirtNumber": 21
+					"overall": 82,
+					"shirtNumber": 21,
+					"nationality": "Portugal",
+					"age": 25
 				},
 				{
 					"firstName": "Aleix",
@@ -156,15 +222,9 @@
 					"displayName": "A. Vidal",
 					"position": "RB",
 					"overall": 77,
-					"shirtNumber": 22
-				},
-				{
-					"firstName": "Jeremy",
-					"lastName": "Mathieu",
-					"displayName": "J. Mathieu",
-					"position": "CB",
-					"overall": 81,
-					"shirtNumber": 23
+					"shirtNumber": 22,
+					"nationality": "Spain",
+					"age": 29
 				},
 				{
 					"firstName": "Samuel",
@@ -172,16 +232,20 @@
 					"displayName": "S. Umtiti",
 					"position": "CB",
 					"overall": 82,
-					"shirtNumber": 24
+					"shirtNumber": 24,
+					"nationality": "France",
+					"age": 25
 				},
 				{
-					"firstName": "Jordi",
-					"lastName": "Masip",
-					"displayName": "J. Masip",
+					"firstName": "Thomas",
+					"lastName": "Vermaelen",
+					"displayName": "T. Vermaelen",
 					"position": "GK",
-					"overall": 70,
-					"shirtNumber": 25
-				},
+					"overall": 80,
+					"shirtNumber": 25,
+					"nationality": "Netherlands",
+					"age": 33
+				}
 			]
 		},
 		{
@@ -196,7 +260,9 @@
 					"displayName": "K. Navas",
 					"position": "GK",
 					"overall": 85,
-					"shirtNumber": 1
+					"shirtNumber": 1,
+					"nationality": "Costa Rica",
+					"age": 32
 				},
 				{
 					"firstName": "Daniel",
@@ -204,15 +270,19 @@
 					"displayName": "D. Carvajal",
 					"position": "RB",
 					"overall": 84,
-					"shirtNumber": 2
+					"shirtNumber": 2,
+					"nationality": "Spain",
+					"age": 26
 				},
 				{
-					"firstName": "Pepe",
-					"lastName": "",
-					"displayName": "Pepe",
+					"firstName": "Jesus",
+					"lastName": "Vallejo",
+					"displayName": "J. Vallejo",
 					"position": "CB",
-					"overall": 88,
-					"shirtNumber": 3
+					"overall": 70,
+					"shirtNumber": 3,
+					"nationality": "Spain",
+					"age": 21
 				},
 				{
 					"firstName": "Sergio",
@@ -220,7 +290,9 @@
 					"displayName": "S. Ramos",
 					"position": "CB",
 					"overall": 89,
-					"shirtNumber": 4
+					"shirtNumber": 4,
+					"nationality": "Spain",
+					"age": 32
 				},
 				{
 					"firstName": "Raphael",
@@ -228,7 +300,9 @@
 					"displayName": "R. Varane",
 					"position": "CB",
 					"overall": 84,
-					"shirtNumber": 5
+					"shirtNumber": 5,
+					"nationality": "Spain",
+					"age": 25
 				},
 				{
 					"firstName": "Nacho",
@@ -236,7 +310,9 @@
 					"displayName": "N. Fernandez",
 					"position": "CB",
 					"overall": 78,
-					"shirtNumber": 6
+					"shirtNumber": 6,
+					"nationality": "Spain",
+					"age": 28
 				},
 				{
 					"firstName": "Cristiano",
@@ -244,7 +320,9 @@
 					"displayName": "C. Ronaldo",
 					"position": "LW",
 					"overall": 94,
-					"shirtNumber": 7
+					"shirtNumber": 7,
+					"nationality": "Portugal",
+					"age": 33
 				},
 				{
 					"firstName": "Toni",
@@ -252,7 +330,9 @@
 					"displayName": "T. Kroos",
 					"position": "CM",
 					"overall": 88,
-					"shirtNumber": 8
+					"shirtNumber": 8,
+					"nationality": "Germany",
+					"age": 28
 				},
 				{
 					"firstName": "Karin",
@@ -260,71 +340,9 @@
 					"displayName": "K. Benzema",
 					"position": "ST",
 					"overall": 87,
-					"shirtNumber": 9
-				},
-				{
-					"firstName": "James",
-					"lastName": "Rodriguez",
-					"displayName": "J. Rodrigues",
-					"position": "AM",
-					"overall": 87,
-					"shirtNumber": 10
-				},
-				{
-					"firstName": "Gareth",
-					"lastName": "Bale",
-					"displayName": "G. Bale",
-					"position": "RW",
-					"overall": 90,
-					"shirtNumber": 11
-				},
-				{
-					"firstName": "Marcelo",
-					"lastName": "",
-					"displayName": "Marcelo",
-					"position": "LB",
-					"overall": 87,
-					"shirtNumber": 12
-				},
-				{
-					"firstName": "Kiko",
-					"lastName": "Casilla",
-					"displayName": "K. Casilla",
-					"position": "GK",
-					"overall": 79,
-					"shirtNumber": 13
-				},
-				{
-					"firstName": "Casemiro",
-					"lastName": "",
-					"displayName": "Casemiro",
-					"position": "DM",
-					"overall": 82,
-					"shirtNumber": 14
-				},
-				{
-					"firstName": "Fabio",
-					"lastName": "Coentrao",
-					"displayName": "F. Coentrao",
-					"position": "LB",
-					"overall": 80,
-					"shirtNumber": 15
-				},
-				{
-					"firstName": "Mateo",
-					"lastName": "Kovacic",
-					"displayName": "M. Kovacic",
-					"position": "CM",
-					"overall": 79,
-					"shirtNumber": 16
-				},
-				{
-					"firstName": "Lucas",
-					"lastName": "Vasquez",
-					"displayName": "L. Vasquez",
-					"position": "RW",
-					"overall": 81,
-					"shirtNumber": 17
+					"shirtNumber": 9,
+					"nationality": "France",
+					"age": 31
 				},
 				{
 					"firstName": "Luka",
@@ -332,7 +350,89 @@
 					"displayName": "L. Modric",
 					"position": "CM",
 					"overall": 89,
-					"shirtNumber": 19
+					"shirtNumber": 10,
+					"nationality": "Croatia",
+					"age": 33
+				},
+				{
+					"firstName": "Gareth",
+					"lastName": "Bale",
+					"displayName": "G. Bale",
+					"position": "RW",
+					"overall": 90,
+					"shirtNumber": 11,
+					"nationality": "Wales",
+					"age": 29
+				},
+				{
+					"firstName": "Marcelo",
+					"lastName": "",
+					"displayName": "Marcelo",
+					"position": "LB",
+					"overall": 87,
+					"shirtNumber": 12,
+					"nationality": "Brazil",
+					"age": 30
+				},
+				{
+					"firstName": "Kiko",
+					"lastName": "Casilla",
+					"displayName": "K. Casilla",
+					"position": "GK",
+					"overall": 79,
+					"shirtNumber": 13,
+					"nationality": "Spain",
+					"age": 32
+				},
+				{
+					"firstName": "Casemiro",
+					"lastName": "",
+					"displayName": "Casemiro",
+					"position": "DM",
+					"overall": 82,
+					"shirtNumber": 14,
+					"nationality": "Brazil",
+					"age": 26
+				},
+				{
+					"firstName": "Theo",
+					"lastName": "Hernandez",
+					"displayName": "T. Hernandez",
+					"position": "LB",
+					"overall": 72,
+					"shirtNumber": 15,
+					"nationality": "France",
+					"age": 21
+				},
+				{
+					"firstName": "Lucas",
+					"lastName": "Vasquez",
+					"displayName": "L. Vasquez",
+					"position": "RW",
+					"overall": 81,
+					"shirtNumber": 17,
+					"nationality": "Spain",
+					"age": 27
+				},
+				{
+					"firstName": "Marcos",
+					"lastName": "Llorente",
+					"displayName": "M. Llorente",
+					"position": "CM",
+					"overall": 72,
+					"shirtNumber": 18,
+					"nationality": "Spain",
+					"age": 23
+				},
+				{
+					"firstName": "Achraf",
+					"lastName": "Hakimi",
+					"displayName": "A. Hakimi",
+					"position": "RB",
+					"overall": 65,
+					"shirtNumber": 19,
+					"nationality": "Spain",
+					"age": 20
 				},
 				{
 					"firstName": "Marco",
@@ -340,15 +440,19 @@
 					"displayName": "M. Asensio",
 					"position": "CM",
 					"overall": 81,
-					"shirtNumber": 20
+					"shirtNumber": 20,
+					"nationality": "Spain",
+					"age": 22
 				},
 				{
-					"firstName": "Alvaro",
-					"lastName": "Morata",
-					"displayName": "A. Morata",
+					"firstName": "Borja",
+					"lastName": "Mayoral",
+					"displayName": "B. Mayoral",
 					"position": "ST",
-					"overall": 82,
-					"shirtNumber": 21
+					"overall": 77,
+					"shirtNumber": 21,
+					"nationality": "Spain",
+					"age": 21
 				},
 				{
 					"firstName": "Isco",
@@ -356,7 +460,67 @@
 					"displayName": "Isco",
 					"position": "AM",
 					"overall": 84,
-					"shirtNumber": 22
+					"shirtNumber": 22,
+					"nationality": "Spain",
+					"age": 26
+				},
+				{
+					"firstName": "Mateo",
+					"lastName": "Kovacic",
+					"displayName": "M. Kovacic",
+					"position": "CM",
+					"overall": 79,
+					"shirtNumber": 23,
+					"nationality": "Croatia",
+					"age": 24
+				},
+				{
+					"firstName": "Daniel",
+					"lastName": "Ceballos",
+					"displayName": "D. Ceballos",
+					"position": "CM",
+					"overall": 76,
+					"shirtNumber": 24,
+					"nationality": "Spain",
+					"age": 22
+				},
+				{
+					"firstName": "Luca",
+					"lastName": "Fernandez",
+					"displayName": "L. Fernandez",
+					"position": "GK",
+					"overall": 68,
+					"shirtNumber": 24,
+					"nationality": "France",
+					"age": 20
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Manchester City",
+			"stadiumId": 3,
+			"formationId": 3,
+			"players": [
+				{
+					"firstName": "Claudio",
+					"lastName": "Bravo",
+					"displayName": "C. Bravo",
+					"position": "GK",
+					"overall": 80,
+					"shirtNumber": 1,
+					"nationality": "Chile",
+					"age": 35
+				},
+				{
+					"firstName": "Kyle",
+					"lastName": "Walker",
+					"displayName": "K. Walker",
+					"position": "RB",
+					"overall": 83,
+					"shirtNumber": 2,
+					"nationality": "England",
+					"age": 28
 				},
 				{
 					"firstName": "Danilo",
@@ -364,9 +528,497 @@
 					"displayName": "Danilo",
 					"position": "RB",
 					"overall": 80,
-					"shirtNumber": 23
+					"shirtNumber": 3,
+					"nationality": "Brazil",
+					"age": 27
+				},
+				{
+					"firstName": "Vincent",
+					"lastName": "Kompany",
+					"displayName": "V. Kompany",
+					"position": "CB",
+					"overall": 86,
+					"shirtNumber": 4,
+					"nationality": "Belgium",
+					"age": 32
+				},
+				{
+					"firstName": "John",
+					"lastName": "Stones",
+					"displayName": "J. Stones",
+					"position": "CB",
+					"overall": 80,
+					"shirtNumber": 5,
+					"nationality": "England",
+					"age": 24
+				},
+				{
+					"firstName": "Raheem",
+					"lastName": "Sterling",
+					"displayName": "R. Sterling",
+					"position": "RM",
+					"overall": 83,
+					"shirtNumber": 7,
+					"nationality": "England",
+					"age": 24
+				},
+				{
+					"firstName": "Ilkay",
+					"lastName": "Gundogan",
+					"displayName": "I. Gundogan",
+					"position": "CM",
+					"overall": 83,
+					"shirtNumber": 8,
+					"nationality": "Germany",
+					"age": 28
+				},
+				{
+					"firstName": "Sergio",
+					"lastName": "Aguero",
+					"displayName": "S. Aguero",
+					"position": "ST",
+					"overall": 87,
+					"shirtNumber": 10,
+					"nationality": "Argentina",
+					"age": 30
+				},
+				{
+					"firstName": "Eliaquim",
+					"lastName": "Mangala",
+					"displayName": "E. Mangala",
+					"position": "CB",
+					"overall": 78,
+					"shirtNumber": 15,
+					"nationality": "France",
+					"age": 27
+				},
+				{
+					"firstName": "Kevin",
+					"lastName": "de Bruyne",
+					"displayName": "K. de Bruyne",
+					"position": "AM",
+					"overall": 88,
+					"shirtNumber": 17,
+					"nationality": "Belgium",
+					"age": 27
+				},
+				{
+					"firstName": "Fabian",
+					"lastName": "Delph",
+					"displayName": "F. Delph",
+					"position": "CM",
+					"overall": 78,
+					"shirtNumber": 18,
+					"nationality": "England",
+					"age": 29
+				},
+				{
+					"firstName": "Leroy",
+					"lastName": "Sane",
+					"displayName": "L. Sane",
+					"position": "LM",
+					"overall": 83,
+					"shirtNumber": 19,
+					"nationality": "Germany",
+					"age": 22
+				},
+				{
+					"firstName": "Bernardo",
+					"lastName": "Silva",
+					"displayName": "B. Silva",
+					"position": "RM",
+					"overall": 82,
+					"shirtNumber": 20,
+					"nationality": "Portugal",
+					"age": 24
+				},
+				{
+					"firstName": "David",
+					"lastName": "Silva",
+					"displayName": "D. Silva",
+					"position": "AM",
+					"overall": 86,
+					"shirtNumber": 21,
+					"nationality": "Spain",
+					"age": 32
+				},
+				{
+					"firstName": "Benjamin",
+					"lastName": "Mendy",
+					"displayName": "B. Mendy",
+					"position": "LB",
+					"overall": 83,
+					"shirtNumber": 22,
+					"nationality": "France",
+					"age": 24
+				},
+				{
+					"firstName": "Fernandinho",
+					"lastName": "Luiz Roza",
+					"displayName": "Fernandinho",
+					"position": "DM",
+					"overall": 83,
+					"shirtNumber": 25,
+					"nationality": "Brazil",
+					"age": 33
+				},
+				{
+					"firstName": "Nicolas",
+					"lastName": "Otamendi",
+					"displayName": "N. Otamendi",
+					"position": "CB",
+					"overall": 84,
+					"shirtNumber": 30,
+					"nationality": "Argentina",
+					"age": 30
+				},
+				{
+					"firstName": "Ederson",
+					"lastName": "Morais",
+					"displayName": "Ederson",
+					"position": "GK",
+					"overall": 83,
+					"shirtNumber": 31,
+					"nationality": "Brazil",
+					"age": 25
+				},
+				{
+					"firstName": "Gabriel",
+					"lastName": "Jesus",
+					"displayName": "G. Jesus",
+					"position": "ST",
+					"overall": 81,
+					"shirtNumber": 33,
+					"nationality": "Brazil",
+					"age": 21
+				},
+				{
+					"firstName": "Oleksandr",
+					"lastName": "Zinchenko",
+					"displayName": "O. Zinchenko",
+					"position": "CM",
+					"overall": 65,
+					"shirtNumber": 35,
+					"nationality": "Ukraine",
+					"age": 22
+				},
+				{
+					"firstName": "Yaya",
+					"lastName": "Toure",
+					"displayName": "Y. Toure",
+					"position": "CM",
+					"overall": 83,
+					"shirtNumber": 42,
+					"nationality": "Cote d'Ivoire",
+					"age": 35
+				},
+				{
+					"firstName": "Tosin",
+					"lastName": "Adarabioyo",
+					"displayName": "T. Adarabioyo",
+					"position": "CB",
+					"overall": 67,
+					"shirtNumber": 53,
+					"nationality": "England",
+					"age": 21
+				},
+				{
+					"firstName": "Brahim",
+					"lastName": "Diaz",
+					"displayName": "B. Diaz",
+					"position": "AM",
+					"overall": 65,
+					"shirtNumber": 55,
+					"nationality": "Spain",
+					"age": 19
 				}
 			]
-		}
+		},
+		{
+			"id": 4,
+			"name": "Paris Saint Germain",
+			"stadiumId": 7,
+			"formationId": 1,
+			"players": [
+				{
+					"firstName": "Kevin",
+					"lastName": "Trapp",
+					"displayName": "K. Trapp",
+					"position": "GK",
+					"overall": 82,
+					"shirtNumber": 1,
+					"nationality": "Germany",
+					"age": 28
+				},
+				{
+					"firstName": "Thiago",
+					"lastName": "Silva",
+					"displayName": "T. Silva",
+					"position": "CB",
+					"overall": 88,
+					"shirtNumber": 2,
+					"nationality": "Brazil",
+					"age": 34
+				},
+				{
+					"firstName": "Presnel",
+					"lastName": "Kimpembe",
+					"displayName": "P. Kimpembe",
+					"position": "CB",
+					"overall": 76,
+					"shirtNumber": 3,
+					"nationality": "France",
+					"age": 23
+				},
+				{
+					"firstName": "Marquinhos",
+					"lastName": "",
+					"displayName": "Marquinhos",
+					"position": "CB",
+					"overall": 83,
+					"shirtNumber": 5,
+					"nationality": "Brazil",
+					"age": 24
+				},
+				{
+					"firstName": "Marco",
+					"lastName": "Verratti",
+					"displayName": "M. Verratti",
+					"position": "CM",
+					"overall": 87,
+					"shirtNumber": 6,
+					"nationality": "Italy",
+					"age": 26
+				},
+				{
+					"firstName": "Lucas",
+					"lastName": "Moura",
+					"displayName": "Lucas",
+					"position": "RW",
+					"overall": 82,
+					"shirtNumber": 7,
+					"nationality": "Brazil",
+					"age": 26
+				},
+				{
+					"firstName": "Thiago",
+					"lastName": "Motta",
+					"displayName": "T. Motta",
+					"position": "DM",
+					"overall": 81,
+					"shirtNumber": 8,
+					"nationality": "Italy",
+					"age": 36
+				},
+				{
+					"firstName": "Edinson",
+					"lastName": "Cavani",
+					"displayName": "E. Cavani",
+					"position": "ST",
+					"overall": 87,
+					"shirtNumber": 9,
+					"nationality": "Uruguay",
+					"age": 31
+				},
+				{
+					"firstName": "Neymar",
+					"lastName": "Jr",
+					"displayName": "Neymar",
+					"position": "LW",
+					"overall": 92,
+					"shirtNumber": 10,
+					"nationality": "Brazil",
+					"age": 26
+				},
+				{
+					"firstName": "Angel",
+					"lastName": "Di Maria",
+					"displayName": "A. Di Maria",
+					"position": "RW",
+					"overall": 85,
+					"shirtNumber": 11,
+					"nationality": "Argentina",
+					"age": 30
+				},
+				{
+					"firstName": "Thomas",
+					"lastName": "Meunier",
+					"displayName": "T. Meunier",
+					"position": "RB",
+					"overall": 81,
+					"shirtNumber": 12,
+					"nationality": "France",
+					"age": 27
+				},
+				{
+					"firstName": "Alphonse",
+					"lastName": "Areola",
+					"displayName": "A. Areola",
+					"position": "GK",
+					"overall": 79,
+					"shirtNumber": 16,
+					"nationality": "France",
+					"age": 25
+				},
+				{
+					"firstName": "Yuri",
+					"lastName": "Berchiche",
+					"displayName": "Y. Berchiche",
+					"position": "LB",
+					"overall": 77,
+					"shirtNumber": 17,
+					"nationality": "Spain",
+					"age": 28
+				},
+				{
+					"firstName": "Giovani",
+					"lastName": "Lo Celso",
+					"displayName": "G. Lo Celso",
+					"position": "AM",
+					"overall": 74,
+					"shirtNumber": 18,
+					"nationality": "Argentina",
+					"age": 22
+				},
+				{
+					"firstName": "Layvin",
+					"lastName": "Kurzawa",
+					"displayName": "L. Kurzawa",
+					"position": "LB",
+					"overall": 80,
+					"shirtNumber": 20,
+					"nationality": "France",
+					"age": 26
+				},
+				{
+					"firstName": "Hatem",
+					"lastName": "Ben Arfa",
+					"displayName": "H. Ben Arfa",
+					"position": "AM",
+					"overall": 81,
+					"shirtNumber": 21,
+					"nationality": "France",
+					"age": 31
+				},
+				{
+					"firstName": "Julian",
+					"lastName": "Draxler",
+					"displayName": "J. Draxler",
+					"position": "LW",
+					"overall": 84,
+					"shirtNumber": 23,
+					"nationality": "Germany",
+					"age": 25
+				},
+				{
+					"firstName": "Christopher",
+					"lastName": "Nkunku",
+					"displayName": "C. Nkunku",
+					"position": "CM",
+					"overall": 71,
+					"shirtNumber": 24,
+					"nationality": "France",
+					"age": 21
+				},
+				{
+					"firstName": "Adrien",
+					"lastName": "Rabiot",
+					"displayName": "A. Rabiot",
+					"position": "CM",
+					"overall": 80,
+					"shirtNumber": 25,
+					"nationality": "France",
+					"age": 23
+				},
+				{
+					"firstName": "Javier",
+					"lastName": "Pastore",
+					"displayName": "J. Pastore",
+					"position": "CM",
+					"overall": 83,
+					"shirtNumber": 27,
+					"nationality": "Argentina",
+					"age": 29
+				},
+				{
+					"firstName": "Kylian",
+					"lastName": "Mbappe",
+					"displayName": "K. Mbappe",
+					"position": "RW",
+					"overall": 83,
+					"shirtNumber": 29,
+					"nationality": "France",
+					"age": 20
+				},
+				{
+					"firstName": "Alec",
+					"lastName": "Georgen",
+					"displayName": "A. Georgen",
+					"position": "RB",
+					"overall": 65,
+					"shirtNumber": 31,
+					"nationality": "France",
+					"age": 20
+				},
+				{
+					"firstName": "Daniel",
+					"lastName": "Alves",
+					"displayName": "D. Alves",
+					"position": "RB",
+					"overall": 84,
+					"shirtNumber": 32,
+					"nationality": "Brazil",
+					"age": 35
+				},
+				{
+					"firstName": "Remy",
+					"lastName": "Descamps",
+					"displayName": "R. Descamps",
+					"position": "GK",
+					"overall": 65,
+					"shirtNumber": 40,
+					"nationality": "France",
+					"age": 22
+				}
+			]
+		},
+		{
+			"id": 16,
+			"name": "Free Agents",
+			"stadiumId": 16,
+			"formationId": 1,
+			"players": [
+				{
+					"firstName": "James",
+					"lastName": "Rodriguez",
+					"displayName": "J. Rodrigues",
+					"position": "AM",
+					"overall": 87,
+					"shirtNumber": 10,
+					"nationality": "Germany",
+					"age": 26
+				},
+				{
+					"firstName": "Alvaro",
+					"lastName": "Morata",
+					"displayName": "A. Morata",
+					"position": "ST",
+					"overall": 82,
+					"shirtNumber": 21,
+					"nationality": "Germany",
+					"age": 26
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": 0,
+					"shirtNumber": 0,
+					"nationality": "",
+					"age": 0
+				}
+			]
+		},
 	]
 }

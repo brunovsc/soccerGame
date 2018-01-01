@@ -9,6 +9,96 @@
 			id: 2,
 			name: "Santiago Bernabeu",
 			capacity: 81000
+		},
+		{
+			id: 3,
+			name: "Eithad Stadium",
+			capacity: 55000
+		},
+		{
+			id: 4,
+			name: "Old Trafford",
+			capacity: 75600
+		},
+		{
+			id: 5,
+			name: "Anfield Road",
+			capacity: 54000
+		},
+		{
+			id: 6,
+			name: "Stamford Bridge",
+			capacity: 41600
+		},
+		{
+			id: 7,
+			name: "Parc des Princes",
+			capacity: 48500
+		},
+		{
+			id: 8,
+			name: "Giuseppe Meazza - San Siro",
+			capacity: 80000
+		},
+		{
+			id: 9,
+			name: "Allianz Stadium",
+			capacity: 41500
+		},
+		{
+			id: 10,
+			name: "Allianz Arena",
+			capacity: 63900
+		},
+		{
+			id: 11,
+			name: "Signal Iduna Park",
+			capacity: 65700
+		},
+		{
+			id: 12,
+			name: "Emirates Stadium",
+			capacity: 59800
+		},
+		{
+			id: 13,
+			name: "Stadio San Paolo",
+			capacity: 60200
+		},
+		{
+			id: 14,
+			name: "Wanda Metropolitano",
+			capacity: 48500
+		},
+		{
+			id: 15,
+			name: "Random Park Big One",
+			capacity: 57200
+		},
+		{
+			id: 16,
+			name: "Random Park Big Two",
+			capacity: 61400
+		},
+		{
+			id: 17,
+			name: "Random Park Small One",
+			capacity: 24300
+		},
+		{
+			id: 18,
+			name: "Random Park Small Two",
+			capacity: 27900
+		},
+		{
+			id: 19,
+			name: "Random Park Medium One",
+			capacity: 42000
+		},
+		{
+			id: 20,
+			name: "Random Park Medium Two",
+			capacity: 47900
 		}
 	]
 }

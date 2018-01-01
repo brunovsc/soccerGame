@@ -19,7 +19,7 @@
 			"name": "4-5-1",
 			"attack": 0.4,
 			"defense": 0.6,
-			"positions": ["GK", "RB", "CB", "CB", "LB", "DM", "RM", "CM", "CM", "LM", "ST"]
+			"positions": ["GK", "RB", "CB", "CB", "LB", "DM", "DM", "RM", "AM", "LM", "ST"]
 		},
 		{
 			"id": 4,
