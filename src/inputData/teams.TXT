@@ -1,0 +1,372 @@
+{
+	"teams": [
+		{
+			"id": 1,
+			"name": "Barcelona",
+			"stadiumId": 1,
+			"formationId": 1,
+			"players": [
+				{
+					"firstName": "Marc-Andre",
+					"lastName": "ter Stegen",
+					"displayName": "M. ter Stegen",
+					"position": "GK",
+					"overall": 83,
+					"shirtNumber": 1
+				},
+				{
+					"firstName": "Gerard",
+					"lastName": "Pique",
+					"displayName": "G. Pique",
+					"position": "CB",
+					"overall": 86,
+					"shirtNumber": 3
+				},
+				{
+					"firstName": "Ivan",
+					"lastName": "Rakitic",
+					"displayName": "I. Rakitic",
+					"position": "CM",
+					"overall": 87,
+					"shirtNumber": 4
+				},
+				{
+					"firstName": "Sergio",
+					"lastName": "Busquets",
+					"displayName": "S. Busquets",
+					"position": "DM",
+					"overall": 87,
+					"shirtNumber": 5
+				},
+				{
+					"firstName": "Denis",
+					"lastName": "Suarez",
+					"displayName": "D. Suarez",
+					"position": "CM",
+					"overall": 80,
+					"shirtNumber": 6
+				},
+				{
+					"firstName": "Arda",
+					"lastName": "Turan",
+					"displayName": "A. Turan",
+					"position": "CM",
+					"overall": 84,
+					"shirtNumber": 7
+				},
+				{
+					"firstName": "Andres",
+					"lastName": "Iniesta",
+					"displayName": "A. Iniesta",
+					"position": "CM",
+					"overall": 88,
+					"shirtNumber": 8
+				},
+				{
+					"firstName": "Luis",
+					"lastName": "Suarez",
+					"displayName": "L. Suarez",
+					"position": "ST",
+					"overall": 92,
+					"shirtNumber": 9
+				},
+				{
+					"firstName": "Lionel",
+					"lastName": "Messi",
+					"displayName": "L. Messi",
+					"position": "RW",
+					"overall": 94,
+					"shirtNumber": 10
+				},
+				{
+					"firstName": "Neymar",
+					"lastName": "Junior",
+					"displayName": "Neymar",
+					"position": "LW",
+					"overall": 92,
+					"shirtNumber": 11
+				},
+				{
+					"firstName": "Rafael",
+					"lastName": "Alcantara",
+					"displayName": "Rafinha",
+					"position": "CM",
+					"overall": 82,
+					"shirtNumber": 12
+				},
+				{
+					"firstName": "Jaspen",
+					"lastName": "Cillessen",
+					"displayName": "J. Cillessen",
+					"position": "GK",
+					"overall": 81,
+					"shirtNumber": 13
+				},
+				{
+					"firstName": "Javier",
+					"lastName": "Mascherano",
+					"displayName": "J. Mascherano",
+					"position": "CB",
+					"overall": 85,
+					"shirtNumber": 14
+				},
+				{
+					"firstName": "Paco",
+					"lastName": "Alcacer",
+					"displayName": "P. Alcacer",
+					"position": "ST",
+					"overall": 81,
+					"shirtNumber": 17
+				},
+				{
+					"firstName": "Jordi",
+					"lastName": "Alba",
+					"displayName": "J. Alba",
+					"position": "LB",
+					"overall": 86,
+					"shirtNumber": 18
+				},
+				{
+					"firstName": "Lucas",
+					"lastName": "Digne",
+					"displayName": "L. Digne",
+					"position": "LB",
+					"overall": 79,
+					"shirtNumber": 19
+				},
+				{
+					"firstName": "Sergi",
+					"lastName": "Roberto",
+					"displayName": "S. Roberto",
+					"position": "RB",
+					"overall": 81,
+					"shirtNumber": 20
+				},
+				{
+					"firstName": "Andre",
+					"lastName": "Gomes",
+					"displayName": "A. Gomes",
+					"position": "CM",
+					"overall": 84,
+					"shirtNumber": 21
+				},
+				{
+					"firstName": "Aleix",
+					"lastName": "Vidal",
+					"displayName": "A. Vidal",
+					"position": "RB",
+					"overall": 77,
+					"shirtNumber": 22
+				},
+				{
+					"firstName": "Jeremy",
+					"lastName": "Mathieu",
+					"displayName": "J. Mathieu",
+					"position": "CB",
+					"overall": 81,
+					"shirtNumber": 23
+				},
+				{
+					"firstName": "Samuel",
+					"lastName": "Umtiti",
+					"displayName": "S. Umtiti",
+					"position": "CB",
+					"overall": 82,
+					"shirtNumber": 24
+				},
+				{
+					"firstName": "Jordi",
+					"lastName": "Masip",
+					"displayName": "J. Masip",
+					"position": "GK",
+					"overall": 70,
+					"shirtNumber": 25
+				},
+			]
+		},
+		{
+			"id": 2,
+			"name": "Real Madrid",
+			"stadiumId": 2,
+			"formationId": 1,
+			"players": [
+				{
+					"firstName": "Keylor",
+					"lastName": "Navas",
+					"displayName": "K. Navas",
+					"position": "GK",
+					"overall": 85,
+					"shirtNumber": 1
+				},
+				{
+					"firstName": "Daniel",
+					"lastName": "Carvajal",
+					"displayName": "D. Carvajal",
+					"position": "RB",
+					"overall": 84,
+					"shirtNumber": 2
+				},
+				{
+					"firstName": "Pepe",
+					"lastName": "",
+					"displayName": "Pepe",
+					"position": "CB",
+					"overall": 88,
+					"shirtNumber": 3
+				},
+				{
+					"firstName": "Sergio",
+					"lastName": "Ramos",
+					"displayName": "S. Ramos",
+					"position": "CB",
+					"overall": 89,
+					"shirtNumber": 4
+				},
+				{
+					"firstName": "Raphael",
+					"lastName": "Varane",
+					"displayName": "R. Varane",
+					"position": "CB",
+					"overall": 84,
+					"shirtNumber": 5
+				},
+				{
+					"firstName": "Nacho",
+					"lastName": "Fernandez",
+					"displayName": "N. Fernandez",
+					"position": "CB",
+					"overall": 78,
+					"shirtNumber": 6
+				},
+				{
+					"firstName": "Cristiano",
+					"lastName": "Ronaldo",
+					"displayName": "C. Ronaldo",
+					"position": "LW",
+					"overall": 94,
+					"shirtNumber": 7
+				},
+				{
+					"firstName": "Toni",
+					"lastName": "Kroos",
+					"displayName": "T. Kroos",
+					"position": "CM",
+					"overall": 88,
+					"shirtNumber": 8
+				},
+				{
+					"firstName": "Karin",
+					"lastName": "Benzema",
+					"displayName": "K. Benzema",
+					"position": "ST",
+					"overall": 87,
+					"shirtNumber": 9
+				},
+				{
+					"firstName": "James",
+					"lastName": "Rodriguez",
+					"displayName": "J. Rodrigues",
+					"position": "AM",
+					"overall": 87,
+					"shirtNumber": 10
+				},
+				{
+					"firstName": "Gareth",
+					"lastName": "Bale",
+					"displayName": "G. Bale",
+					"position": "RW",
+					"overall": 90,
+					"shirtNumber": 11
+				},
+				{
+					"firstName": "Marcelo",
+					"lastName": "",
+					"displayName": "Marcelo",
+					"position": "LB",
+					"overall": 87,
+					"shirtNumber": 12
+				},
+				{
+					"firstName": "Kiko",
+					"lastName": "Casilla",
+					"displayName": "K. Casilla",
+					"position": "GK",
+					"overall": 79,
+					"shirtNumber": 13
+				},
+				{
+					"firstName": "Casemiro",
+					"lastName": "",
+					"displayName": "Casemiro",
+					"position": "DM",
+					"overall": 82,
+					"shirtNumber": 14
+				},
+				{
+					"firstName": "Fabio",
+					"lastName": "Coentrao",
+					"displayName": "F. Coentrao",
+					"position": "LB",
+					"overall": 80,
+					"shirtNumber": 15
+				},
+				{
+					"firstName": "Mateo",
+					"lastName": "Kovacic",
+					"displayName": "M. Kovacic",
+					"position": "CM",
+					"overall": 79,
+					"shirtNumber": 16
+				},
+				{
+					"firstName": "Lucas",
+					"lastName": "Vasquez",
+					"displayName": "L. Vasquez",
+					"position": "RW",
+					"overall": 81,
+					"shirtNumber": 17
+				},
+				{
+					"firstName": "Luka",
+					"lastName": "Modric",
+					"displayName": "L. Modric",
+					"position": "CM",
+					"overall": 89,
+					"shirtNumber": 19
+				},
+				{
+					"firstName": "Marco",
+					"lastName": "Asensio",
+					"displayName": "M. Asensio",
+					"position": "CM",
+					"overall": 81,
+					"shirtNumber": 20
+				},
+				{
+					"firstName": "Alvaro",
+					"lastName": "Morata",
+					"displayName": "A. Morata",
+					"position": "ST",
+					"overall": 82,
+					"shirtNumber": 21
+				},
+				{
+					"firstName": "Isco",
+					"lastName": "",
+					"displayName": "Isco",
+					"position": "AM",
+					"overall": 84,
+					"shirtNumber": 22
+				},
+				{
+					"firstName": "Danilo",
+					"lastName": "",
+					"displayName": "Danilo",
+					"position": "RB",
+					"overall": 80,
+					"shirtNumber": 23
+				}
+			]
+		}
+	]
+}

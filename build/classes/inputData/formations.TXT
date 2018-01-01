@@ -1,0 +1,46 @@
+{
+	"formations": [
+		{
+			"id": 1,
+			"name": "4-3-3",
+			"attack": 0.7,
+			"defense": 0.3,
+			"positions": ["GK", "RB", "CB", "CB", "LB", "CM", "CM", "AM", "RW", "ST", "LW"]
+		},
+		{
+			"id": 2,
+			"name": "4-4-2",
+			"attack": 0.5,
+			"defense": 0.5,
+			"positions": ["GK", "RB", "CB", "CB", "LB", "RM", "CM", "CM", "LM", "ST", "ST"]
+		},
+		{
+			"id": 3,
+			"name": "4-5-1",
+			"attack": 0.4,
+			"defense": 0.6,
+			"positions": ["GK", "RB", "CB", "CB", "LB", "DM", "RM", "CM", "CM", "LM", "ST"]
+		},
+		{
+			"id": 4,
+			"name": "3-5-2",
+			"attack": 0.6,
+			"defense": 0.4,
+			"positions": ["GK", "CB", "CB", "CB", "RM", "CM", "CM", "LM", "AM", "ST", "ST"]
+		},
+		{
+			"id": 5,
+			"name": "3-4-3",
+			"attack": 0.7,
+			"defense": 0.3,
+			"positions": ["GK", "CB", "CB", "CB", "RM", "CM", "CM", "LM", "RW", "ST", "LW"]
+		},
+		{
+			"id": 6,
+			"name": "5-3-2",
+			"attack": 0.3,
+			"defense": 0.7,
+			"positions": ["GK", "RB", "CB", "CB", "CB", "LB", "CM", "CM", "AM", "ST", "ST"]
+		},
+	]
+}

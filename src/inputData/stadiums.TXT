@@ -1,0 +1,14 @@
+{
+	"stadiums": [
+		{
+			id: 1,
+			name: "Camp Nou",
+			capacity: 99300
+		},
+		{
+			id: 2,
+			name: "Santiago Bernabeu",
+			capacity: 81000
+		}
+	]
+}
