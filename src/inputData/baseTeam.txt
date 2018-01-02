@@ -247,3 +247,44 @@
 				}
 			]
 		},
+
+
+
+		{
+			"id": 16,
+			"name": "Free Agents",
+			"stadiumId": 16,
+			"formationId": 1,
+			"players": [
+				{
+					"firstName": "James",
+					"lastName": "Rodriguez",
+					"displayName": "J. Rodrigues",
+					"position": "AM",
+					"overall": 87,
+					"shirtNumber": 10,
+					"nationality": "Germany",
+					"age": 26
+				},
+				{
+					"firstName": "Alvaro",
+					"lastName": "Morata",
+					"displayName": "A. Morata",
+					"position": "ST",
+					"overall": 82,
+					"shirtNumber": 21,
+					"nationality": "Germany",
+					"age": 26
+				},
+				{
+					"firstName": "",
+					"lastName": "",
+					"displayName": "",
+					"position": "",
+					"overall": 0,
+					"shirtNumber": 0,
+					"nationality": "",
+					"age": 0
+				}
+			]
+		},

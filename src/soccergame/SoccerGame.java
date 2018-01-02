@@ -6,7 +6,10 @@
 package soccergame;
 
 import domain.Formation;
+import domain.League;
+import domain.Match;
 import domain.Player;
+import domain.Round;
 import domain.Stadium;
 import domain.Team;
 import java.util.ArrayList;
@@ -38,6 +41,14 @@ public class SoccerGame {
         for(Team team: teams){
             printTeam(team);
         }
+        System.out.println("");
+        League league = new League(teams);
+        System.out.println("");
+        System.out.println("");
+        for(Round round: league.getRounds()){
+            printRound(round);
+        }
+        
     }
     
     public static void printStadium(Stadium stadium){
@@ -48,11 +59,11 @@ public class SoccerGame {
         Stadium stadium = StadiumRepository.getStadiumWithId(team.getStadiumId());
         Formation formation = FormationRepository.getFormationWithId(team.getFormationId());
         System.out.printf("Team: %s - Stadium: %s - Formation: %s\n", team.getName(), stadium.getName(), formation.getName());
-        for(Player player: team.getPlayers()){
-            System.out.print("    ");
-            printPlayer(player);
-        }
-        System.out.println("");
+//        for(Player player: team.getPlayers()){
+//            System.out.print("    ");
+//            printPlayer(player);
+//        }
+//        System.out.println("");
     }
     
     public static void printPlayer(Player player){
@@ -66,6 +77,18 @@ public class SoccerGame {
             System.out.print(formation.getPositions().get(i)+ " ");
         }
         System.out.print("]\n");
+    }
+    
+    public static void printRound(Round round){
+        System.out.printf("Round: %d\n", round.getNumber());
+        for(Match match: round.getMatches()){
+            System.out.print("    ");
+            printMatch(match);
+        }
+    }
+    
+    public static void printMatch(Match match){
+        System.out.printf("%s X %s\n", match.getHomeTeam().getName(), match.getAwayTeam().getName());
     }
     
 }

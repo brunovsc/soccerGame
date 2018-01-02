@@ -5,6 +5,8 @@
  */
 package domain;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author Bruno
@@ -19,8 +21,31 @@ public class TeamStats {
     private int goalsScored;
     private int goalsAgainst;
     
+    private ArrayList<Constants.Results> form;
+    
     TeamStats(Team team){
         this.team = team;
         wins = draws = losses = goalsScored = goalsAgainst = 0;
+        form = new ArrayList<>();
     }
+    
+    public void addResultFromMatch(Match match){
+        Team winningTeam = match.getWinningTeam();
+        Constants.Results result;
+        if(winningTeam == null){
+            result = Constants.Results.DRAW;
+            draws++;
+        } else {
+            if(winningTeam.equals(this.team)){
+                result = Constants.Results.WIN;
+                wins++;
+            } else {
+                result = Constants.Results.LOSS;
+                losses++;
+            }
+        }
+        form.add(result);
+    }
+    
+    
 }

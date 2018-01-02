@@ -5,6 +5,8 @@
  */
 package domain;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author Bruno
@@ -15,4 +17,15 @@ public class PlayerStats {
     private int yellowCards;
     private int redCards;
     private int cleanSheets;
+    private int form;
+    private ArrayList<Player> playerChemistry;
+    
+    public PlayerStats(){
+        goals = assists = yellowCards = redCards = cleanSheets = 0;
+        form = 5;
+        playerChemistry = new ArrayList<>();
+    }
+    
+    
+    
 }
