@@ -983,6 +983,502 @@
 			]
 		},
 		{
+			"id": 5,
+			"name": "Chelsea",
+			"stadiumId": 6,
+			"formationId": 3,
+			"players": [
+				{
+					"firstName": "Willy",
+					"lastName": "Caballero",
+					"displayName": "W. Caballero",
+					"position": "GK",
+					"overall": 79,
+					"shirtNumber": 1,
+					"nationality": "Argentina",
+					"age": 37
+				},
+				{
+					"firstName": "Antonio",
+					"lastName": "Rudiger",
+					"displayName": "A. Rudiger",
+					"position": "CB",
+					"overall": 82,
+					"shirtNumber": 2,
+					"nationality": "Germany",
+					"age": 25
+				},
+				{
+					"firstName": "Marcos",
+					"lastName": "Alonso",
+					"displayName": "M. Alonso",
+					"position": "LB",
+					"overall": 81,
+					"shirtNumber": 3,
+					"nationality": "Spain",
+					"age": 28
+				},
+				{
+					"firstName": "Cesc",
+					"lastName": "Fabregas",
+					"displayName": "C. Fabregas",
+					"position": "CM",
+					"overall": 86,
+					"shirtNumber": 4,
+					"nationality": "Spain",
+					"age": 31
+				},
+				{
+					"firstName": "Danny",
+					"lastName": "Drinkwater",
+					"displayName": "D. Drinkwater",
+					"position": "CM",
+					"overall": 79,
+					"shirtNumber": 6,
+					"nationality": "England",
+					"age": 28
+				},
+				{
+					"firstName": "N'Golo",
+					"lastName": "Kante",
+					"displayName": "Kante",
+					"position": "DM",
+					"overall": 87,
+					"shirtNumber": 7,
+					"nationality": "France",
+					"age": 27
+				},
+				{
+					"firstName": "Alvaro",
+					"lastName": "Morata",
+					"displayName": "A. Morata",
+					"position": "ST",
+					"overall": 84,
+					"shirtNumber": 9,
+					"nationality": "Spain",
+					"age": 26
+				},
+				{
+					"firstName": "Eden",
+					"lastName": "Hazard",
+					"displayName": "E. Hazard",
+					"position": "LM",
+					"overall": 90,
+					"shirtNumber": 10,
+					"nationality": "Belgium",
+					"age": 27
+				},
+				{
+					"firstName": "Pedro",
+					"lastName": "",
+					"displayName": "Pedro",
+					"position": "RM",
+					"overall": 84,
+					"shirtNumber": 11,
+					"nationality": "Spain",
+					"age": 31
+				},
+				{
+					"firstName": "Thibaut",
+					"lastName": "Courtois",
+					"displayName": "T. Courtois",
+					"position": "GK",
+					"overall": 89,
+					"shirtNumber": 12,
+					"nationality": "Belgium",
+					"age": 26
+				},
+				{
+					"firstName": "Tiemoue",
+					"lastName": "Bakayoko",
+					"displayName": "T. Bakayoko",
+					"position": "DM",
+					"overall": 82,
+					"shirtNumber": 14,
+					"nationality": "France",
+					"age": 24
+				},
+				{
+					"firstName": "Victor",
+					"lastName": "Moses",
+					"displayName": "V. Moses",
+					"position": "RM",
+					"overall": 79,
+					"shirtNumber": 15,
+					"nationality": "Nigeria",
+					"age": 28
+				},
+				{
+					"firstName": "Kenedy",
+					"lastName": "",
+					"displayName": "Kenedy",
+					"position": "LM",
+					"overall": 72,
+					"shirtNumber": 16,
+					"nationality": "Brazil",
+					"age": 22
+				},
+				{
+					"firstName": "Charly",
+					"lastName": "Musonda",
+					"displayName": "C. Musonda",
+					"position": "RM",
+					"overall": 76,
+					"shirtNumber": 17,
+					"nationality": "Belgium",
+					"age": 22
+				},
+				{
+					"firstName": "David",
+					"lastName": "Zappacosta",
+					"displayName": "D. Zappacosta",
+					"position": "RB",
+					"overall": 79,
+					"shirtNumber": 21,
+					"nationality": "Italy",
+					"age": 26
+				},
+				{
+					"firstName": "Willian",
+					"lastName": "",
+					"displayName": "Willian",
+					"position": "RM",
+					"overall": 84,
+					"shirtNumber": 22,
+					"nationality": "Brazil",
+					"age": 30
+				},
+				{
+					"firstName": "Mitchy",
+					"lastName": "Batshuayi",
+					"displayName": "M. Batshuayi",
+					"position": "ST",
+					"overall": 80,
+					"shirtNumber": 23,
+					"nationality": "Belgium",
+					"age": 25
+				},
+				{
+					"firstName": "Gary",
+					"lastName": "Cahill",
+					"displayName": "G. Cahill",
+					"position": "CB",
+					"overall": 84,
+					"shirtNumber": 24,
+					"nationality": "England",
+					"age": 33
+				},
+				{
+					"firstName": "Andreas",
+					"lastName": "Christensen",
+					"displayName": "A. Christensen",
+					"position": "CB",
+					"overall": 81,
+					"shirtNumber": 27,
+					"nationality": "Denmark",
+					"age": 22
+				},
+				{
+					"firstName": "Cesar",
+					"lastName": "Azpilicueta",
+					"displayName": "C. Azpilicueta",
+					"position": "CB",
+					"overall": 85,
+					"shirtNumber": 28,
+					"nationality": "Spain",
+					"age": 29
+				},
+				{
+					"firstName": "David",
+					"lastName": "Luiz",
+					"displayName": "David Luiz",
+					"position": "CB",
+					"overall": 86,
+					"shirtNumber": 30,
+					"nationality": "Brazil",
+					"age": 31
+				},
+				{
+					"firstName": "Jake",
+					"lastName": "Clarke-Salver",
+					"displayName": "J. Clarke-Salter",
+					"position": "CB",
+					"overall": 65,
+					"shirtNumber": 35,
+					"nationality": "England",
+					"age": 21
+				},
+				{
+					"firstName": "Kyle",
+					"lastName": "Scott",
+					"displayName": "K. Scott",
+					"position": "CM",
+					"overall": 65,
+					"shirtNumber": 36,
+					"nationality": "United States",
+					"age": 21
+				},
+				{
+					"firstName": "Eduardo",
+					"lastName": "",
+					"displayName": "Eduardo",
+					"position": "GK",
+					"overall": 75,
+					"shirtNumber": 37,
+					"nationality": "Portugal",
+					"age": 36
+				}
+			]
+		},
+		{
+			"id": 6,
+			"name": "Liverpool",
+			"stadiumId": 5,
+			"formationId": 1,
+			"players": [
+				{
+					"firstName": "Loris",
+					"lastName": "Karius",
+					"displayName": "L. Karius",
+					"position": "GK",
+					"overall": 80,
+					"shirtNumber": 1,
+					"nationality": "German",
+					"age": 25
+				},
+				{
+					"firstName": "Nathaniel",
+					"lastName": "Clyne",
+					"displayName": "N. Clyne",
+					"position": "RB",
+					"overall": 82,
+					"shirtNumber": 2,
+					"nationality": "England",
+					"age": 27
+				},
+				{
+					"firstName": "Virgil",
+					"lastName": "Van Dijk",
+					"displayName": "V. Van Dijk",
+					"position": "CB",
+					"overall": 83,
+					"shirtNumber": 4,
+					"nationality": "Netherlands",
+					"age": 27
+				},
+				{
+					"firstName": "Georginio",
+					"lastName": "Wijnaldum",
+					"displayName": "G. Wijnaldum",
+					"position": "CM",
+					"overall": 82,
+					"shirtNumber": 5,
+					"nationality": "Netherlands",
+					"age": 28
+				},
+				{
+					"firstName": "Dejan",
+					"lastName": "Lovren",
+					"displayName": "D. Lovren",
+					"position": "CB",
+					"overall": 81,
+					"shirtNumber": 6,
+					"nationality": "Bosnia and Herzegovina",
+					"age": 29
+				},
+				{
+					"firstName": "James",
+					"lastName": "Milner",
+					"displayName": "J. Milner",
+					"position": "LB",
+					"overall": 80,
+					"shirtNumber": 7,
+					"nationality": "England",
+					"age": 32
+				},
+				{
+					"firstName": "Roberto",
+					"lastName": "Firmino",
+					"displayName": "Roberto Firmino",
+					"position": "ST",
+					"overall": 83,
+					"shirtNumber": 9,
+					"nationality": "Brazil",
+					"age": 27
+				},
+				{
+					"firstName": "Philippe",
+					"lastName": "Coutinho",
+					"displayName": "P. Coutinho",
+					"position": "LW",
+					"overall": 86,
+					"shirtNumber": 10,
+					"nationality": "Brazil",
+					"age": 26
+				},
+				{
+					"firstName": "Mohamed",
+					"lastName": "Salah",
+					"displayName": "M. Salah",
+					"position": "RW",
+					"overall": 83,
+					"shirtNumber": 11,
+					"nationality": "Egypt",
+					"age": 26
+				},
+				{
+					"firstName": "Joe",
+					"lastName": "Gomez",
+					"displayName": "J. Gomez",
+					"position": "CB",
+					"overall": 70,
+					"shirtNumber": 12,
+					"nationality": "England",
+					"age": 21
+				},
+				{
+					"firstName": "Jordan",
+					"lastName": "Henderson",
+					"displayName": "J. Henderson",
+					"position": "CM",
+					"overall": 82,
+					"shirtNumber": 14,
+					"nationality": "England",
+					"age": 28
+				},
+				{
+					"firstName": "Daniel",
+					"lastName": "Sturridge",
+					"displayName": "D. Sturridge",
+					"position": "ST",
+					"overall": 82,
+					"shirtNumber": 15,
+					"nationality": "England",
+					"age": 29
+				},
+				{
+					"firstName": "Marko",
+					"lastName": "Grujic",
+					"displayName": "M. Grujic",
+					"position": "CM",
+					"overall": 71,
+					"shirtNumber": 16,
+					"nationality": "Serbia",
+					"age": 22
+				},
+				{
+					"firstName": "Ragnar",
+					"lastName": "Klavan",
+					"displayName": "R. Klavan",
+					"position": "CB",
+					"overall": 78,
+					"shirtNumber": 17,
+					"nationality": "Estonia",
+					"age": 33
+				},
+				{
+					"firstName": "Alberto",
+					"lastName": "Moreno",
+					"displayName": "A. Moreno",
+					"position": "LB",
+					"overall": 76,
+					"shirtNumber": 18,
+					"nationality": "Spain",
+					"age": 26
+				},
+				{
+					"firstName": "Sadio",
+					"lastName": "Mane",
+					"displayName": "S. Mane",
+					"position": "RW",
+					"overall": 84,
+					"shirtNumber": 19,
+					"nationality": "Senegal",
+					"age": 26
+				},
+				{
+					"firstName": "Adam",
+					"lastName": "Lallana",
+					"displayName": "A. Lallana",
+					"position": "CM",
+					"overall": 83,
+					"shirtNumber": 20,
+					"nationality": "England",
+					"age": 30
+				},
+				{
+					"firstName": "Alex",
+					"lastName": "Oxlade-Chamberlain",
+					"displayName": "A. Oxlade-Chamberlain",
+					"position": "RW",
+					"overall": 80,
+					"shirtNumber": 21,
+					"nationality": "England",
+					"age": 25
+				},
+				{
+					"firstName": "Simon",
+					"lastName": "Mignolet",
+					"displayName": "S. Mignolet",
+					"position": "GK",
+					"overall": 81,
+					"shirtNumber": 22,
+					"nationality": "Belgium",
+					"age": 30
+				},
+				{
+					"firstName": "Emre",
+					"lastName": "Can",
+					"displayName": "E. Can",
+					"position": "CM",
+					"overall": 79,
+					"shirtNumber": 23,
+					"nationality": "Germany",
+					"age": 24
+				},
+				{
+					"firstName": "Danny",
+					"lastName": "Ings",
+					"displayName": "D. Ings",
+					"position": "ST",
+					"overall": 77,
+					"shirtNumber": 28,
+					"nationality": "England",
+					"age": 26
+				},
+				{
+					"firstName": "Joel",
+					"lastName": "Matip",
+					"displayName": "J. Matip",
+					"position": "CB",
+					"overall": 83,
+					"shirtNumber": 32,
+					"nationality": "Cameroon",
+					"age": 27
+				},
+				{
+					"firstName": "Dominic",
+					"lastName": "Solanke",
+					"displayName": "D. Solanke",
+					"position": "ST",
+					"overall": 70,
+					"shirtNumber": 29,
+					"nationality": "England",
+					"age": 21
+				},
+				{
+					"firstName": "Trent",
+					"lastName": "Alexander-Arnold",
+					"displayName": "T. Alexander-Arnold",
+					"position": "RB",
+					"overall": 68,
+					"shirtNumber": 66,
+					"nationality": "England",
+					"age": 20
+				}
+			]
+		},
+		{
 			"id": 16,
 			"name": "Free Agents",
 			"stadiumId": 16,
