@@ -1,0 +1,57 @@
+
+                {
+			"id": 9,
+			"name": "Borussia Dortmund",
+			"stadiumId": 16,
+			"formationId": 1,
+			"players": []
+		},
+                {
+			"id": 10,
+			"name": "Juventus",
+			"stadiumId": 16,
+			"formationId": 1,
+			"players": []
+		},
+                {
+			"id": 11,
+			"name": "Manchester United",
+			"stadiumId": 16,
+			"formationId": 1,
+			"players": []
+		},
+                {
+			"id": 12,
+			"name": "Milan",
+			"stadiumId": 16,
+			"formationId": 1,
+			"players": []
+		},
+                {
+			"id": 13,
+			"name": "Roma",
+			"stadiumId": 16,
+			"formationId": 1,
+			"players": []
+		},
+                {
+			"id": 14,
+			"name": "Inter",
+			"stadiumId": 16,
+			"formationId": 1,
+			"players": []
+		},
+                {
+			"id": 15,
+			"name": "Arsenal",
+			"stadiumId": 16,
+			"formationId": 1,
+			"players": []
+		},
+                {
+			"id": 16,
+			"name": "Tottenham",
+			"stadiumId": 16,
+			"formationId": 1,
+			"players": []
+		},

@@ -5,6 +5,7 @@
  */
 package soccergame;
 
+import domain.Constants;
 import domain.Formation;
 import domain.League;
 import domain.Match;
@@ -12,6 +13,7 @@ import domain.Player;
 import domain.Round;
 import domain.Stadium;
 import domain.Team;
+import domain.TeamStats;
 import java.util.ArrayList;
 import repository.FormationRepository;
 import repository.StadiumRepository;
@@ -43,13 +45,18 @@ public class SoccerGame {
         }
         System.out.println("");
         League league = new League(teams);
-        System.out.println("");
+        
+        
+//        league.verifyTable();
+        
+        league.simulate();
         System.out.println("");
         for(Round round: league.getRounds()){
             printRound(round);
         }
-        
-        league.verifyTable();
+        System.out.println("");
+        league.sortByPoints();
+        printLeagueTable(league);
         
     }
     
@@ -90,7 +97,23 @@ public class SoccerGame {
     }
     
     public static void printMatch(Match match){
-        System.out.printf("%s X %s\n", match.getHomeTeam().getName(), match.getAwayTeam().getName());
+        System.out.printf("%s %d X %d %s\n", match.getHomeTeam().getName(), match.getHomeTeamGoals(), match.getAwayTeamGoals(), match.getAwayTeam().getName());
     }
+    
+    public static void printLeagueTable(League league){
+        ArrayList<TeamStats> teams = league.getTeamStats();
+        for(int i = 0; i < teams.size(); i++){
+            TeamStats stats = teams.get(i);
+            System.out.printf("%d\t %s - %d - W: %d | D: %d | L: %d ", i + 1, stats.getTeam().getName(), stats.getPoints(), stats.getWins(), stats.getDraws(), stats.getLosses());
+            ArrayList<Constants.Results> form = stats.getForm();
+            
+//            for(int j = 0; j < form.size(); j++){
+//                System.out.printf("%s ", form.get(j).toString());
+//            }
+            System.out.println();
+        }
+    }
+    
+    
     
 }

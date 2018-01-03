@@ -6,6 +6,9 @@
 package domain;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.concurrent.ThreadLocalRandom;
 
 /**
  *
@@ -117,6 +120,48 @@ public class League {
             System.out.println();
     }
     
+    
+    public void simulate(){
+        for(int i = 0; i < rounds.size(); i++){
+            simulateRound(rounds.get(i));
+        }
+    }
+    
+    public void simulateRound(Round round){
+        ArrayList<Match> matches = round.getMatches();
+        for(int i = 0; i < matches.size(); i++){
+            simulateMatch(matches.get(i));
+        }
+    }
+    
+    public void simulateMatch(Match match){
+        int homeGoals = ThreadLocalRandom.current().nextInt(0, 5 + 1);
+        int awayGoals = ThreadLocalRandom.current().nextInt(0, 5 + 1);
+        match.setHomeTeamGoals(homeGoals);
+        match.setAwayTeamGoals(awayGoals);
+        for(TeamStats teamStat: teamStats){
+            if(teamStat.getTeam().equals(match.getHomeTeam())){
+                Constants.Results result = homeGoals == awayGoals ? Constants.Results.DRAW : (homeGoals > awayGoals ? Constants.Results.WIN : Constants.Results.LOSS);
+                teamStat.addResult(result);
+            }
+            if(teamStat.getTeam().equals(match.getAwayTeam())){
+                Constants.Results result = awayGoals == homeGoals ? Constants.Results.DRAW : (awayGoals > homeGoals ? Constants.Results.WIN : Constants.Results.LOSS);
+                teamStat.addResult(result);
+                break;
+            }
+        }
+    }
+    
+    public void sortByPoints(){
+        Collections.sort(teamStats, new Comparator<TeamStats>(){
+            @Override
+            public int compare(TeamStats o1, TeamStats o2){
+                if(o1.getPoints() == o2.getPoints())
+                    return 0;
+                return o1.getPoints() < o2.getPoints() ? 1 : -1;
+            }
+        });
+    }
     
 }
 

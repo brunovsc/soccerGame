@@ -52,6 +52,16 @@ public class Match {
     public void setRound(int round) {
         this.round = round;
     }
+
+    public void setHomeTeamGoals(int homeTeamGoals) {
+        this.homeTeamGoals = homeTeamGoals;
+    }
+
+    public void setAwayTeamGoals(int awayTeamGoals) {
+        this.awayTeamGoals = awayTeamGoals;
+    }
+    
+    
     
     
 }

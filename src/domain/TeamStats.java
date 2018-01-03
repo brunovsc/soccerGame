@@ -29,23 +29,55 @@ public class TeamStats {
         form = new ArrayList<>();
     }
     
-    public void addResultFromMatch(Match match){
-        Team winningTeam = match.getWinningTeam();
-        Constants.Results result;
-        if(winningTeam == null){
-            result = Constants.Results.DRAW;
-            draws++;
-        } else {
-            if(winningTeam.equals(this.team)){
-                result = Constants.Results.WIN;
-                wins++;
-            } else {
-                result = Constants.Results.LOSS;
+    public void addResult(Constants.Results result){
+        if(result != null) switch (result) {
+            case LOSS:
                 losses++;
-            }
+                break;
+            case DRAW:
+                draws++;
+                break;
+            case WIN:
+                wins++;
+                break;
+            default:
+                break;
         }
         form.add(result);
     }
+
+    public Team getTeam() {
+        return team;
+    }
+    
+    public int getPoints() {
+        return wins * 3 + draws * 1;
+    }
+
+    public int getWins() {
+        return wins;
+    }
+
+    public int getDraws() {
+        return draws;
+    }
+
+    public int getLosses() {
+        return losses;
+    }
+
+    public ArrayList<Constants.Results> getForm() {
+        return form;
+    }
+
+    public int getGoalsAgainst() {
+        return goalsAgainst;
+    }
+
+    public int getGoalsScored() {
+        return goalsScored;
+    }
+    
     
     
 }

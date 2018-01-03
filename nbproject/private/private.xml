@@ -3,9 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Bruno/Documents/GitHub/soccerGame/src/domain/Player.java</file>
-            <file>file:/C:/Users/Bruno/Documents/GitHub/soccerGame/src/repository/TeamRepository.java</file>
-            <file>file:/C:/Users/Bruno/Documents/GitHub/soccerGame/src/soccergame/SoccerGame.java</file>
+            <file>file:/Users/macbookomega/Desktop/personal_projects/soccerGame/src/inputData/teams.TXT</file>
+            <file>file:/Users/macbookomega/Desktop/personal_projects/soccerGame/src/domain/PlayerPosition.java</file>
+            <file>file:/Users/macbookomega/Desktop/personal_projects/soccerGame/src/domain/TeamStats.java</file>
+            <file>file:/Users/macbookomega/Desktop/personal_projects/soccerGame/src/soccergame/SoccerGame.java</file>
+            <file>file:/Users/macbookomega/Desktop/personal_projects/soccerGame/src/domain/Round.java</file>
+            <file>file:/Users/macbookomega/Desktop/personal_projects/soccerGame/src/domain/Player.java</file>
+            <file>file:/Users/macbookomega/Desktop/personal_projects/soccerGame/src/inputData/baseTeam.txt</file>
+            <file>file:/Users/macbookomega/Desktop/personal_projects/soccerGame/src/domain/PlayerStats.java</file>
+            <file>file:/Users/macbookomega/Desktop/personal_projects/soccerGame/src/domain/Constants.java</file>
+            <file>file:/Users/macbookomega/Desktop/personal_projects/soccerGame/src/domain/Match.java</file>
+            <file>file:/Users/macbookomega/Desktop/personal_projects/soccerGame/src/domain/League.java</file>
         </group>
     </open-files>
 </project-private>
