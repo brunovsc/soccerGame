@@ -48,4 +48,10 @@ public class Match {
         if(homeTeamGoals < awayTeamGoals) return awayTeam;
         return null;
     }
+
+    public void setRound(int round) {
+        this.round = round;
+    }
+    
+    
 }

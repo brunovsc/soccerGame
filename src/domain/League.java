@@ -57,8 +57,9 @@ public class League {
                         teamsTaken.add(match.getHomeTeam().getId());
                         teamsTaken.add(match.getAwayTeam().getId());                    
                         matchesTaken++;
+                        match.setRound(r + 1);
                         round.getMatches().add(match);
-                        reRound.getMatches().add(new Match(nRounds/2 + r, match.getAwayTeam(), match.getHomeTeam()));
+                        reRound.getMatches().add(new Match(match.getRound() + nRounds/2, match.getAwayTeam(), match.getHomeTeam()));
                         matchesUsed.add(match);
                     }
                 }
@@ -103,7 +104,7 @@ public class League {
         }
         for(Round round: rounds){
             for(Match match: round.getMatches()){
-                table[match.getHomeTeam().getId() - 1][match.getAwayTeam().getId() - 1] = round.getNumber();
+                table[match.getHomeTeam().getId() - 1][match.getAwayTeam().getId() - 1] = match.getRound();
             }
         }
         
