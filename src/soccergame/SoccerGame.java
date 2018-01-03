@@ -49,6 +49,8 @@ public class SoccerGame {
             printRound(round);
         }
         
+        league.verifyTable();
+        
     }
     
     public static void printStadium(Stadium stadium){
@@ -58,7 +60,7 @@ public class SoccerGame {
     public static void printTeam(Team team){
         Stadium stadium = StadiumRepository.getStadiumWithId(team.getStadiumId());
         Formation formation = FormationRepository.getFormationWithId(team.getFormationId());
-        System.out.printf("Team: %s - Stadium: %s - Formation: %s\n", team.getName(), stadium.getName(), formation.getName());
+        System.out.printf("Team : %s - Stadium: %s - Formation: %s\n", team.getId(), team.getName(), stadium.getName(), formation.getName());
 //        for(Player player: team.getPlayers()){
 //            System.out.print("    ");
 //            printPlayer(player);
